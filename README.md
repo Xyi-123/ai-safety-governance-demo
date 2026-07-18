@@ -47,7 +47,7 @@ The complete team project can be found here:
 ## Demo
 <img width="865" height="464" alt="8a49973e-b106-400e-9fa8-93d8cc6d9811" src="https://github.com/user-attachments/assets/5575c3e5-e37e-49f5-b3ad-8c8e6a03948b" />
 
-## outcome examples:
+## Outcome Examples:
 <img width="865" height="241" alt="9c39ef4d43888322338cfdd0513bbf48" src="https://github.com/user-attachments/assets/10db1572-eb30-4ff3-9208-195b6bafac78" />
 <img width="865" height="278" alt="97567c9a5ece3e0fbec9de4a006572fd" src="https://github.com/user-attachments/assets/ec1daf1a-99d3-4e13-97c7-10b97a27acfa" />
 
