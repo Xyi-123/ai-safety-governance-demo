@@ -1,4 +1,4 @@
-# AI-safety-governance-demo
+# AI-Safety-Governance-demo
 AI Safety Governance Platform | NYU Capstone | UNICC AI Safety Lab
 # AI Safety Governance Platform
 
